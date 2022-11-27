@@ -1,4 +1,4 @@
-package allOther;
+package personality;
 
 public class Corporation extends Person implements Describable{
 
