@@ -1,4 +1,4 @@
-package allOther;
+package personality;
 
 
 public abstract class Person {
