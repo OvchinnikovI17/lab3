@@ -1,4 +1,4 @@
-package str;
+package startpoint;
 import allOther.*;
 
 public class Main {
