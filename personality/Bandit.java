@@ -1,4 +1,4 @@
-package allOther;
+package personality;
 
 import java.util.ArrayList;
 import java.util.List;
