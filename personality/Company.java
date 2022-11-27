@@ -1,4 +1,4 @@
-package allOther;
+package personality;
 
 public class Company extends Building implements  Start, Describable{
 
