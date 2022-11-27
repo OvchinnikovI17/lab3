@@ -1,4 +1,4 @@
-package allOther;
+package personality;
 
 public class Buyer extends Person implements WhatToDO, Describable{
     private String[] actions = {"ничего", "ничего", "никуда"};
