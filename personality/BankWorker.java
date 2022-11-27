@@ -1,4 +1,4 @@
-package allOther;
+package personality;
 
 public class BankWorker extends Person implements Describable{
 
