@@ -1,4 +1,4 @@
-package allOther;
+package personality;
 
 public class Police extends Person implements WhatToDO, Describable {
     private String[] actions = {"ничего", "о ограблении", "на перестрелку"};
